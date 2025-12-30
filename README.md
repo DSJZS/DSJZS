@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**DSJZS/DSJZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+↓ My tons of programming books ↓
+      ____ ______________
+     |____|____BT________| 
+    |____|__ESP32________|
+    _|____|___RTOS____|_
+   |____|__ST32________|
+     |____|___ROS2____|
+    |___|___TCP/IP_____|
+     |___|__C_________|
+    |___|___Qt______|_                ♥ 
+     |___|__Linux_____|       (\_/)  ♥
+    |___|__C++_______|__     ( > w <) 
+   |_____|_Javascript___|    />Py  /> C#
+                                      🔥  ← FIRE THEM ALL!
